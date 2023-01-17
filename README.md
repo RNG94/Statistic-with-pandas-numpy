@@ -1,1 +1,1 @@
-# assignment-statistic
+# Solving some statistics problems with python
